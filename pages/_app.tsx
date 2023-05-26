@@ -1,6 +1,6 @@
 import { StyledThemeProvider } from "@definitions/styled-components";
 import store from "@redux/store";
-import "antd/dist/antd.css";
+// import "antd/dist/antd.css";
 import { AppProps } from "next/app";
 import { Provider } from "react-redux";
 
